@@ -28,6 +28,8 @@ LisGaming — Desenvolvedor primário do projeto
 Inoue — Gestor e conselheiro do projeto
 Gonçalves — Gestor e conselheiro do projeto
 Petrunk — Conselheiro do projeto
+JPMTA — Criador do sistema de chat do servidor
+Berlin — Criador do sistema de interação de contas In-Game
 ```
 
 # Desenvolvimento estrutural:
