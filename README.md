@@ -34,6 +34,10 @@ Berlin — Criador do sistema de interação de contas In-Game
 
 # Desenvolvimento estrutural:
 - [Home](https://github.com/userLisG/wiki-roleplaying-bot/wiki)
+  * [Sobre o servidor](https://pages.github.com/)
+  * [Barra de progresso](https://pages.github.com/)
+  * [Créditos](https://pages.github.com/)
+
 - [Desenvolvimento do BOT](https://pages.github.com/)
   * [Criando funções](https://pages.github.com/)
   * [Introduzindo-se ao BOT](https://pages.github.com/)
