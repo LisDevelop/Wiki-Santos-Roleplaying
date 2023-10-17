@@ -43,6 +43,7 @@ Berlin — Criador do sistema de interação de contas In-Game
   * [Introduzindo-se ao BOT](https://pages.github.com/)
   * [Iniciando e verificando modularização](https://pages.github.com/)
   * [Sistema de contas](https://pages.github.com/)
+  * [Sistema de verificações](https://pages.github.com/)
   * [Sistema de tickets](https://pages.github.com/)
   * [Sistema anti-spam & attack](https://pages.github.com/)
   * [Sistema de facções](https://pages.github.com/)
