@@ -38,7 +38,7 @@ Berlin — Criador do sistema de interação de contas In-Game
   * [Barra de progresso](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki#barra-de-progresso)
   * [Créditos](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki#cr%C3%A9ditos)
 
-- [Desenvolvimento do BOT](https://pages.github.com/)
+- [Desenvolvimento do BOT](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT)
   * [Criando funções](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT#criando-fun%C3%A7%C3%B5es)
   * [Introduzindo-se ao BOT](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT#introduzindo-se-ao-bot)
   * [Iniciando e verificando modularização](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT#iniciando-e-verificando-modulariza%C3%A7%C3%A3o)
