@@ -33,7 +33,7 @@ Berlin — Criador do sistema de interação de contas In-Game
 ```
 
 # Desenvolvimento estrutural:
-- [Home](https://github.com/userLisG/wiki-roleplaying-bot/wiki)
+- [Home](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki)
   * [Sobre o servidor](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki#sobre-o-servidor)
   * [Barra de progresso](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki#barra-de-progresso)
   * [Créditos](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki#cr%C3%A9ditos)
