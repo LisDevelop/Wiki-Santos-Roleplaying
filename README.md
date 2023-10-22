@@ -49,7 +49,7 @@ Berlin — Criador do sistema de interação de contas In-Game
   * [Anti-spam & attack](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT#sistema-anti-spam--attack)
   * [Gerenciador de facções](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT#sistema-de-fac%C3%A7%C3%B5es)
   * [Gerenciador de grupos](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT#sistema-de-grupos)
-  * [Sistema do "Serviço ao PM"](https://pages.github.com/)
+  * [Sistema do "Serviço ao PM"](https://github.com/LisDevelop/Wiki-Santos-Roleplaying/wiki/Desenvolvimento-do-BOT#servi%C3%A7o-ao-pm)
   
 - [Desenvolvimento do servidor](https://pages.github.com/)
   * [Sistema de personagens](https://pages.github.com/)
